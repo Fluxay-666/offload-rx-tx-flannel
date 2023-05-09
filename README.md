@@ -1,5 +1,10 @@
 # flannel
 
+## 此代码库引用了1282的PR
+https://github.com/flannel-io/flannel/pull/1282#issue-598794874
+https://github.com/k3s-io/k3s/issues/2013#issue-655097067
+解决了flannel在某些情况下会有精确的63秒延迟问题
+
 ![flannel Logo](logos/flannel-horizontal-color.png)
 
 ![Build Status](https://github.com/flannel-io/flannel/actions/workflows/build.yaml/badge.svg?branch=master)
